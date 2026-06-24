@@ -1,7 +1,20 @@
 {
-    "91": {
-        "customer": "R.D",
-        "active": 1,
-        "expiry": "2026-06-31"
+    "License": {
+        "user": {
+            "91": {
+                "pin": "2860",
+                "expiry": "2026-06-30"
+            },
+            "92": {
+                "pin": "6257",
+                "expiry": "2026-07-31"
+            }
+        },
+        "service": {
+            "RDengineering2": {
+                "pin": "2468",
+                "expiry": "2026-07-31"
+            }
+        }
     }
 }
