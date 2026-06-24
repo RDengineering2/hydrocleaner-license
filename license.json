@@ -3,16 +3,19 @@
         "user": {
             "91": {
                 "pin": "2860",
+                "active": true,
                 "expiry": "2026-06-30"
             },
             "92": {
                 "pin": "6257",
+                "active": true,
                 "expiry": "2026-07-31"
             }
         },
         "service": {
             "RDengineering2": {
                 "pin": "2468",
+                "active": true,
                 "expiry": "2026-07-31"
             }
         }
