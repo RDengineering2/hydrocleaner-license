@@ -32,6 +32,11 @@
                 "pin": "2468",
                 "active": true,
                 "expiry": "2026-07-31"
+            },
+            "Production.techitian": {
+                "pin": "4567",
+                "active": true,
+                "expiry": "2026-06-30"
             }
         }
     }
