@@ -10,6 +10,11 @@
                 "pin": "6257",
                 "active": true,
                 "expiry": "2026-07-31"
+            },
+            "93": {
+                "pin": "1234",
+                "active": true,
+                "expiry": "2026-12-31"
             }
         },
         "service": {
