@@ -24,7 +24,7 @@
         },
         "service": {
             "RDengineering2": {
-                "pin": "2468",
+                "pin": "Pass@1234",
                 "active": true,
                 "expiry": "2026-07-31"
             },
