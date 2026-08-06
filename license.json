@@ -26,7 +26,7 @@
             "RDengineering2": {
                 "pin": "Pass@1234",
                 "active": true,
-                "expiry": "2026-07-31"
+                "expiry": "2040-07-31"
             },
             "Quality2": {
                 "pin": "2468",
