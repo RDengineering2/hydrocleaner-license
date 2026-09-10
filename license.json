@@ -53,6 +53,11 @@
                 "pin": "Pass@1234",
                 "active": true,
                 "expiry": "2040-03-09"
+            },
+            "RD.engineering2@swissnewaterindia.com": {
+                "pin": "6393",
+                "active": false,
+                "expiry": "2027-09-10"
             }
         }
     }
