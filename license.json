@@ -61,7 +61,7 @@
             },
             "rd.chemistry1@swissnewaterindia.com": {
                 "pin": "2466",
-                "active": false,
+                "active": true,
                 "expiry": "2027-09-10"
             }
         }
