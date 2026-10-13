@@ -6,6 +6,7 @@
                 "active": true,
                 "expiry": "2027-09-10",
                 "RCP": "RCP1"
+            },
             "200": {
                 "pin": "1234",
                 "active": false,
@@ -17,7 +18,7 @@
             "Admin": {
                 "pin": "1234",
                 "active": true,
-                "expiry": "2040-07-31"
+                "expiry": "2040-07-31",
                 "admin": true
             }
         }
