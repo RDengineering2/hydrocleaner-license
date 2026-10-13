@@ -1,11 +1,6 @@
 {
     "License": {
         "user": {
-            "92": {
-                "pin": "2002",
-                "active": false,
-                "expiry": "2026-08-09"
-            },
             "93": {
                 "pin": "2222",
                 "active": true,
@@ -39,6 +34,11 @@
                 "active": true,
                 "expiry": "2027-09-24",
                 "RCP": "RCP1"
+            },
+            "92": {
+                "pin": "2002",
+                "active": true,
+                "expiry": "2030-10-03"
             }
         },
         "service": {
