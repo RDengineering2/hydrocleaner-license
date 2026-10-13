@@ -9,7 +9,7 @@
             },
             "200": {
                 "pin": "1234",
-                "active": false,
+                "active": true,
                 "expiry": "2027-09-24",
                 "RCP": "RCP3"
             }
